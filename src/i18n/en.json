@@ -1,0 +1,30 @@
+{
+  "en": "English",
+  "ar": "Arabic",
+  "common": {
+    "ok": "OK!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "details": "details",
+  "messages": {
+    "success": "success"
+  },
+  "form": {
+    "name": "name",
+    "email": "email",
+    "mobile": "mobile",
+    "password": "password",
+    "confirmPassword": "confirm password"
+  },
+  "validation": {
+    "required": "%{path} is a required field",
+    "email": "%{path} must be a valid email",
+    "length": "%{path} must be exactly %{length} characters",
+    "minString": "%{path} must be at least %{min} characters",
+    "maxString": "%{path} must be at most %{max} characters",
+    "minNumber": "%{path} must be greater than or equal to %{min}",
+    "maxNumber": "%{path} must be less than or equal to %{max}",
+    "confirmPasswordNotMatch": "confirm password does not match the password"
+  }
+}

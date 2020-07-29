@@ -1,0 +1,30 @@
+{
+  "en": "الإنجليزية",
+  "ar": "العربية",
+  "common": {
+    "ok": "حسناً!",
+    "cancel": "Cancel",
+    "back": "Back"
+  },
+  "details": "تفاصيل",
+  "messages": {
+    "success": "تم بنجاح"
+  },
+  "form": {
+    "name": "الاسم",
+    "email": "الايميل",
+    "mobile": "الموبايل",
+    "password": "كلمة المرور",
+    "confirmPassword": "تأكيد كلمة المرور"
+  },
+  "validation": {
+    "required": "%{path} حقل مطلوب",
+    "email": "%{path} يجب أن يكون عنوان بريد إلكتروني صالح",
+    "length": "%{path} يجب أن يكون بالضبط %{length} حروف",
+    "minString": "%{path} يجب يكون على الأقل %{min} حروف",
+    "maxString": "%{path} يجب يكون على الأكثر %{max} حروف",
+    "minNumber": "%{path} يجب أن يكون أكبر من أو يساوي %{min}",
+    "maxNumber": "%{path} يجب أن يكون أقل من أو يساوي %{max}",
+    "confirmPasswordNotMatch": "تأكيد كلمة المرور لا تتطابق مع كلمة المرور"
+  }
+}
